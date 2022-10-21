@@ -5,7 +5,7 @@
 
 📖 _I have graduted from Beetroot Academy in C# development and currently I continue to improve my skills._
 
-🗿 _I like playing the guitar or ukulele, computer/console gaming, horse riding and collectiong vinyl records_
+🗿 _I like playing the guitar or ukulele, computer/console gaming, horse riding and collecting vinyl records_
 
 🔮 _In future I’m planning to learn Unity Engine_ 
 
